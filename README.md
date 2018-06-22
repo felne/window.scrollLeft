@@ -1,6 +1,4 @@
-< trecho >
-  < content > <! [CDATA [
-   # $ {1: Window.scrollLeft}
+  <h1>1: Window.scrollLeft</h1>
    TODO:O projeto trás uma forma dinamica de scroll com a pagina web, ao inves de seguir eixo Y, foi alterada para seguir eixo X automaticamente com rolar do scroll
    ##Versão
    TODO: 1.0
@@ -12,8 +10,5 @@
    TODO: Arquivo se encontra todo comentado para facilitar a compreensão dos componentes
    ##Autor
    TODO: Felicio F. Macedo Neto
-   ]]> </ content >
-  < tabTrigger > readme </ tabTrigger >
-</ snippet >
 
 
