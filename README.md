@@ -5,7 +5,7 @@
 <p>1.0<p>
 <br>
 <h2>Objetivo</h2>
-<p>Criar uma pagina dinamica com uma interação diferente das demais atualmente</p>
+<p>Criar uma pagina dinamica com uma interação diferente das demais atualmente, veja funcionando: <a href="https://jsfiddle.net/9r2utjq3/1/">Link</a></p>
 <br>
 <h2>Instalação</h2>
 <p>Lembrar de ter o arquivo <a href="https://code.jquery.com/jquery-3.3.1.min.js">jquery.js</a> presente no html linkado corretamente</p.
